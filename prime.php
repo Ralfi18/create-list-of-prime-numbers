@@ -1,9 +1,6 @@
 <?php
 //Enter your code here, enjoy!
 
-
-
-
 function getPrimes($number) {
   $primes = "";
   for($x = 2; $x < $number; $x++) {
